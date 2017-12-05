@@ -1,12 +1,12 @@
 # Pitch Perfect
 An iOS app for developed in Swift 4. The app uses AVFoundation framework to record a sound and manipulate it with various filters.
 
-# Installation
+## Installation
 Clone the GitHub repository.
 
 `$ git clone https://github.com/nextsuccessstory/udacity-pitchperfect.git`
 
-# License
+## License
 MIT License
 
 Copyright (c) 2017 Glenn Pineda
