@@ -4,7 +4,9 @@ An iOS app for developed in Swift 4. The app uses AVFoundation framework to reco
 ## Installation
 Clone the GitHub repository.
 
-`$ git clone https://github.com/nextsuccessstory/udacity-pitchperfect.git`
+```
+$ git clone https://github.com/nextsuccessstory/udacity-pitchperfect.git
+```
 
 ## License
 MIT License
